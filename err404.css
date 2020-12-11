@@ -1,0 +1,43 @@
+.vert{
+
+
+height: 1000px ;
+width: 1px ;
+
+
+}
+
+.text{
+
+  margin: auto ;
+font-size: 35px ;
+
+
+
+}
+
+p{
+
+
+font-family: Arial, Helvetica, sans-serif, Muller ;
+font-size: 36px ;
+
+
+}
+
+a{
+
+  text-decoration: none;
+  
+
+}
+
+.back {
+
+color: red ;
+font-family: Arial, Helvetica, sans-serif, Muller ;
+
+
+
+
+}
